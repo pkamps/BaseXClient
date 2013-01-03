@@ -1,0 +1,10 @@
+{
+    "name":        "pkamps/basexclient",
+    "description": "BaseX PHP client",
+    "version":     "1.0",
+    "homepage":    "http://www.mugo.ca",
+    "licence":     "GPL-2.0",
+    "require": {
+        "php": ">=5.3.1"
+    }
+}
